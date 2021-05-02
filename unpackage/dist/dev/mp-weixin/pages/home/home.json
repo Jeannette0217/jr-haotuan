@@ -1,0 +1,16 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "pengpai-fade-in-out": "/components/Pengpai-FadeInOut/Pengpai-FadeInOut",
+    "classify-data": "/components/ClassifyData/ClassifyData",
+    "tab-bar": "/components/TabBar/TabBar",
+    "search-header": "/components/mix-header",
+    "carousel": "/components/vear-carousel/vear-carousel",
+    "vertical-goods": "/components/Goods/VerticalGoods/index",
+    "horizontal-goods": "/components/Goods/HorizontalGoods/index",
+    "classify-list": "/components/ClassifyList/index"
+  }
+}

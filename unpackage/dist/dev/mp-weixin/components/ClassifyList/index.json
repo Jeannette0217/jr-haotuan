@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "horizontal-goods": "/components/ClassifyList/HorizontalGoods/index"
+  }
+}

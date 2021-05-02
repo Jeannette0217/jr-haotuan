@@ -1,0 +1,1 @@
+<view class="data-v-1d5b57e0"><view class="header data-v-1d5b57e0"><text class="data-v-1d5b57e0">综合排序</text><text class="data-v-1d5b57e0">销量</text><text class="data-v-1d5b57e0">上新</text></view><view class="body data-v-1d5b57e0"><horizontal-goods vue-id="e3dfb5b4-1" class="data-v-1d5b57e0" bind:__l="__l"></horizontal-goods></view></view>
